@@ -1,1 +1,1 @@
-This is a Golang program that reads file data, finds and counts duplicates while taking the file name as input 
+This is a Golang program that takes a filename as input, reads the data, searches for duplicates and counts them

@@ -1,0 +1,1 @@
+This is an upgrade of the fetch program, it uses goroutines to get, fetch and display data from multiple urls concurrently. It also displays the time taken to get data from each url
